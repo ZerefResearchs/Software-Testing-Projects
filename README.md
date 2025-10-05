@@ -1,8 +1,8 @@
 
 # E-Commerce Website – Manual Testing
 
-This repository contains the **manual testing deliverables** for the Omnify QA Assignment.  
-System under test: **OrangeHRM Demo** — [https://opensource-demo.orangehrmlive.com](https://opensource-demo.orangehrmlive.com)
+This repository contains the **manual testing deliverables** for the E-Commerce Website TutorialsNinja.  
+System under test: **TutorialsNinja** — [https://tutorialsninja.com/demo/](https://tutorialsninja.com/demo/)
 
 ---
 
