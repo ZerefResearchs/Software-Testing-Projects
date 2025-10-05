@@ -1,5 +1,5 @@
 
-# Omnify QA Assignment – Manual Testing (OrangeHRM)
+# E-Commerce Website – Manual Testing
 
 This repository contains the **manual testing deliverables** for the Omnify QA Assignment.  
 System under test: **OrangeHRM Demo** — [https://opensource-demo.orangehrmlive.com](https://opensource-demo.orangehrmlive.com)
