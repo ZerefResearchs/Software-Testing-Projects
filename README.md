@@ -19,7 +19,7 @@ System under test: **TutorialsNinja** — [https://tutorialsninja.com/demo/](htt
 ---
 
 ## 📌 Project Scope
-- **Login functionality** — positive, negative and edge cases.  
+- The scope of this project is to perform comprehensive manual and automated testing on the TutorialsNinja Demo E-commerce website, which simulates a real-world online shopping platform. The objective is to ensure that the core functionalities of the website — including user authentication, product search, cart management, and checkout process — work seamlessly across supported browsers.
 - **PIM (Employee Management):**  
   - Add Employee  
   - Search/View Employee  
