@@ -65,8 +65,8 @@ python TutorialsNinja_Selenium_Test.py (console log command)
 3. Automating repetitive functional flows with Selenium.
 4. Understanding end-to-end QA processes from planning to execution.
 
-### 👨‍💻 Author
+---
 
-Abhishek Singh Negi
-📧 [abhisheknegi117@gmail.com](abhisheknegi117@gmail.com)
-🔗 [LinkedIn](abhisheknegi117@gmail.com)
+👨‍💻 **Author:** Abhishek Singh Negi  
+📧 **Mail:** [abhisheknegi117@gmail.com](abhisheknegi117@gmail.com)  
+🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/abhishek-singh-negi-07826717a/?profileId=ACoAACpljZwBBhgeIMtvXCQxs2UKWL_Fxb4T9NQ)
