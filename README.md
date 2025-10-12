@@ -16,10 +16,9 @@ To perform comprehensive testing of the TutorialsNinja e-commerce demo website, 
 ### The project covers:
 
 1. Functional Testing – Login, Search, Add to Cart, Checkout
-2. Regression Testing – Ensuring recent fixes don’t affect existing features
-3. Usability Testing – Evaluating navigation, UI clarity, and form validation
-4. Compatibility Testing – Verifying performance on Chrome, Firefox, and Edge
-5. Automation Testing – Automating high-priority flows with Selenium
+2. Usability Testing – Evaluating navigation, UI clarity, and form validation
+3. Compatibility Testing – Verifying performance on Chrome, Firefox, and Edge
+4. Automation Testing – Automating high-priority flows with Selenium
 
 ### Out of Scope: 
 1. Backend or Database testing
@@ -27,13 +26,23 @@ To perform comprehensive testing of the TutorialsNinja e-commerce demo website, 
 
 ## 📦 Deliverables
 
-| Deliverables                      | Description                                                    |
+| Deliverables                     | Description                                                    |
 | -------------------------------- | -------------------------------------------------------------- |
-| **🧾Test Plan (PDF)**              | Defines scope, objectives, testing approach, and criteria.     |
-| **📊Test Cases**                   | Manual test cases for Login, Search, Cart, and Checkout.       |
-| **🐞Bug Report (PDF)**             | Lists identified defects with severity and reproduction steps. |
-| **💻Selenium Automation (Python)** | Automates product search, add to cart, and checkout flow.      |
-| **📋Test Summary**                 | Summarizes overall execution results and defect trends.        |
+| **🧾Test Plan (PDF)**            | Defines scope, objectives, testing approach, and criteria.     |
+| **📊Test Cases (Excel)**         | Manual test cases for Login, Search, Cart, and Checkout.       |
+| **🐞Bug Report (PDF)**           | Lists identified defects with severity and reproduction steps. |
+| **💻Selenium Automation (Python)** | Automates product search, add to cart, and checkout flow.    |
+
+## 📊Test Cases
+
+| Test Case ID  | Module   | Steps                                                    | Expected Result         | Status   | Screenshot |
+| ------------- | -------- | -------------------------------------------------------  | ----------------------- | -------- | ---------- | 
+| TCase-01   | Login    | Go to login. → Enter invalid credentials. → Click on Submit button. | Error message displayed. | Pass | [View]() |
+| TCase-02   | Login    | Go to login. → Enter valid email ID and password. → Click on Submit button. | User logged in and redirected to account dashboard. | Pass | [View]() |
+| TCase-03   | Search   | Enter "MacBook" in search bar. → Click on Search button. | MacBook products displayed. | Pass | [View]() |
+| TCase-04   | Cart     | Search "iPhone". → Add to cart. | iPhone added to cart with correct price. | Pass | [View]() |
+| TCase-05   | Cart     | Add any 2 products. → Remove any 1 product. | Cart total updates correctly. | Pass | [View]() |
+| TCase-06   | Checkout | Proceed to checkout → 2. Fill the required details. → Confirm order. | Order confirmation message displayed. | Pass | [View]() |
 
 ## ⚙️ Tools & Technologies Used
 
