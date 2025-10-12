@@ -45,40 +45,28 @@ To perform comprehensive testing of the TutorialsNinja e-commerce demo website, 
 
 ## 🚀 Automation Flow (Selenium)
 
-Automated Scenario:
+### Automated Scenario:
 
-Open the TutorialsNinja demo site.
+1. Open the TutorialsNinja demo site.
+2. Search for a product (e.g., “MacBook”).
+3. Add product to cart.
+4. Navigate to cart and verify item.
+5. Proceed to checkout.
+6. Print “✅ Test completed successfully”.
 
-Search for a product (e.g., “MacBook”).
+### Execution Command:
 
-Add product to cart.
+python TutorialsNinja_Selenium_Test.py (console log command)
 
-Navigate to cart and verify item.
+## 📈 Key Learnings
 
-Proceed to checkout.
+1. Writing effective test cases and identifying UI-level defects.
+2. Executing smoke and regression tests efficiently.
+3. Automating repetitive functional flows with Selenium.
+4. Understanding end-to-end QA processes from planning to execution.
 
-Print “✅ Test completed successfully”.
+### 👨‍💻 Author
 
-Execution Command:
-
-python TutorialsNinja_Selenium_Test.py
-
-🧪 Project Artifacts
-
-📄 Test Plan (PDF)
-
-📊 Test Cases (Excel)
-
-🐞 Bug Report (PDF)
-
-💻 Selenium Script (Python)
-
-📈 Key Learnings
-
-Writing effective test cases and identifying UI-level defects.
-
-Executing smoke and regression tests efficiently.
-
-Automating repetitive functional flows with Selenium.
-
-Understanding end-to-end QA processes from planning to execution.
+Abhishek Singh Negi
+📧 [abhisheknegi117@gmail.com](abhisheknegi117@gmail.com)
+🔗 [LinkedIn](abhisheknegi117@gmail.com)
